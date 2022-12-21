@@ -8,7 +8,7 @@
 
 [Github](https://github.com/bruno-lanzi)
 
-[Porfolio web](https://bruno-lanzi.github.io/PORFOLIO/MIPORFOLIO/inicio.html)
+[Porfolio web](https://bruno-lanzi.github.io/mi-portfolio/MIPORFOLIO/inicio.html)
 
 ## Ejemplo en vivo
 
